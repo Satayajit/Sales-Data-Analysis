@@ -16,6 +16,10 @@ Monthly trends with line and bar charts
 
 Drill-through capability for deeper insight
 
+## 📁 Data Source
+(Describe the dataset, or mention if it's a placeholder/template. Example below)
+This project uses sample sales data for demonstration. You can connect your own dataset with similar columns such as Date, Product, Sales, Profit, Region, etc.
+
 ## 🖼️ Dashboard Preview
 (Include screenshots of your Power BI dashboard here)
 Example:
