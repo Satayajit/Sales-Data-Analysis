@@ -25,7 +25,6 @@ Drill-through capability for deeper insight
 
 ## 🖼️ Dashboard Preview
 
-![Screenshot 2025-05-28 085937](https://github.com/user-attachments/assets/a3178874-22c9-495e-89e6-ec4e7f9a1727)
 ![Screenshot 2025-05-28 085937](https://github.com/user-attachments/assets/7165c81e-2b72-4361-9dd0-05bf03e35860)
 ![Screenshot 2025-05-28 090006](https://github.com/user-attachments/assets/cebcb6c9-752e-48fd-90ea-6a24ee290d65)
 ![Screenshot 2025-05-28 090030](https://github.com/user-attachments/assets/6b187eec-0a22-477a-a920-127ae29c59c6)
