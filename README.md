@@ -1,4 +1,5 @@
-![Screenshot 2025-05-28 085937](https://github.com/user-attachments/assets/a3178874-22c9-495e-89e6-ec4e7f9a1727)# 📊 Sales Data Analysis - Power BI Project
+# 📊 Sales Data Analysis - Power BI Project
+
  This Power BI project provides a detailed sales data analysis dashboard to uncover key insights and trends in business performance. It allows interactive exploration of sales metrics such as revenue, profit, region-wise performance, and product/category trends.
  
 ## 🔍 Project Overview
