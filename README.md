@@ -1,9 +1,11 @@
 # 📊 Sales Data Analysis - Power BI Project
  This Power BI project provides a detailed sales data analysis dashboard to uncover key insights and trends in business performance. It allows interactive exploration of sales metrics such as revenue, profit, region-wise performance, and product/category trends.
- 🔍 Project Overview
+ 
+## 🔍 Project Overview
+ 
 The Sales Data Analysis dashboard was built using Power BI to visualize and interpret business sales data. The goal is to enable decision-makers to quickly identify patterns, outliers, and opportunities for growth.
 
-🚀 Features
+## 🚀 Features
 Dynamic dashboards with slicers and filters
 
 KPI indicators for revenue, profit, and orders
@@ -14,6 +16,6 @@ Monthly trends with line and bar charts
 
 Drill-through capability for deeper insight
 
-🖼️ Dashboard Preview
+## 🖼️ Dashboard Preview
 (Include screenshots of your Power BI dashboard here)
 Example:
