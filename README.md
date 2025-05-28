@@ -24,9 +24,14 @@ Drill-through capability for deeper insight
 
 ## 🖼️ Dashboard Preview
 
+![Screenshot 2025-05-28 085937](https://github.com/user-attachments/assets/a3178874-22c9-495e-89e6-ec4e7f9a1727)
 ![Screenshot 2025-05-28 085937](https://github.com/user-attachments/assets/7165c81e-2b72-4361-9dd0-05bf03e35860)
 ![Screenshot 2025-05-28 090006](https://github.com/user-attachments/assets/cebcb6c9-752e-48fd-90ea-6a24ee290d65)
 ![Screenshot 2025-05-28 090030](https://github.com/user-attachments/assets/6b187eec-0a22-477a-a920-127ae29c59c6)
 ![Screenshot 2025-05-28 090051](https://github.com/user-attachments/assets/d1d83060-1aaa-45c4-937b-7e17f1d499f0)
 ![Screenshot 2025-05-28 090112](https://github.com/user-attachments/assets/9d2c0f50-777b-4838-8392-4be359f06998)
 ![Screenshot 2025-05-28 090212](https://github.com/user-attachments/assets/3c4144d3-b72e-452d-b8fa-87c0c26fc3fc)
+
+
+## ✅ Conclusion
+This Power BI project demonstrates how interactive dashboards can transform raw sales data into meaningful business insights. Whether you're a business analyst, student, or data enthusiast, this dashboard provides a practical example of data visualization, trend analysis, and performance tracking. Feel free to use the provided template and dataset as a starting point for your own projects or to customize it with your own data.
